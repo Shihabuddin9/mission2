@@ -1,0 +1,66 @@
+/* common css */
+body {
+    margin: 0 auto;
+    background-color: #E5E5E5;
+}
+
+/*.................. 
+    first-part start
+.....................*/
+.first-part {
+    display: flex;
+    margin-left: 9%;
+    margin-right: 5%;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.first-part-left_div {
+    margin-top: 8%;
+    margin-right: 14%;
+}
+
+.first-heading {
+    font-family: 'Yeseva One';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 80px;
+    color: #333333;
+}
+
+.second-heading {
+    font-family: 'Yeseva One';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    color: #FFAD5A;
+}
+
+.first-heading-left-border {
+    border-left: 3px solid #FF5959;
+}
+
+.first-part-p {
+    color: #3E3E3E;
+    font-size: 135%;
+}
+
+.btn {
+    background-color: #FF5959;
+    padding: 10px;
+    border: #E5E5E5;
+    border-radius: 5%;
+    cursor: pointer;
+    color: #E5E5E5;
+}
+
+.first-part-img img {
+    width: 95%;
+}
+
+/*.................. 
+    first-part end
+.....................*/
