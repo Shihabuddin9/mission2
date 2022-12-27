@@ -64,3 +64,112 @@ body {
 /*.................. 
     first-part end
 .....................*/
+
+
+/* second part start */
+
+.second-part {
+    margin-top: 86px;
+    margin-left: 9%;
+    margin-right: 5%;
+}
+
+.second-part-h {
+    color: #13103A;
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.container-mission-part {
+    display: flex;
+}
+
+.mission-part {
+    background: rgba(79, 157, 166, 0.1);
+    padding: 15px;
+    margin: 15px;
+    border-radius: 5%;
+}
+
+.mission-part img {
+    width: 141px;
+    height: 141px;
+}
+
+.mission-part h4 {
+    font-weight: 700;
+}
+
+.mission-part p {
+    color: gray;
+}
+
+/* second part End */
+/* 
+>>>>>>>>>>>>>>>>>>>>>
+*/
+/* third part start */
+
+.third-part {
+    display: flex;
+    margin-top: 86px;
+    margin-left: 9%;
+    margin-right: 5%;
+}
+
+.third-part-img img {
+    width: 400px;
+    height: 400px;
+}
+
+.third-part-right {
+    margin-top: 34px;
+}
+
+.third-part-h {
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.third-part-p {
+    color: gray;
+    font-size: 20px;
+}
+
+/* third part end */
+
+.project-img {
+    margin-left: 20%;
+}
+
+/* last part */
+.last-part {
+    margin-top: 86px;
+}
+
+.last-img img {
+    width: 358px;
+    height: 527px;
+}
+
+/* footer */
+.footer {
+    background-color: #0B0D17;
+    color: #E5E5E5;
+    margin-top: 50px;
+    padding: 15px;
+}
+
+.footer h1 {
+    font-family: 'Lobster';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    text-align: center;
+}
+
+.footer p {
+    color: #E5E5E5;
+    text-align: center;
+}
